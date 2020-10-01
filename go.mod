@@ -1,5 +1,3 @@
-module github.com/vumanskyi/fileserver
+module github.com/vumanskyi/go-file-server
 
 go 1.15
-
-require github.com/labstack/gommon v0.3.0
